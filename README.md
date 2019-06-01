@@ -1,2 +1,2 @@
 # hello-world
-its my frist time repo
+My frist repository
